@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1><center>Bangtan Sonyeondan</center></h1>
+    <h1><center>I purple you</center></h1>
     </>
   )
 
